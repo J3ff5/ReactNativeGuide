@@ -15,4 +15,4 @@ Este repositório é um bom lugar para você aprender a usar JavaScript.
 Se ja conhece JavaScript, podemos continuar.
 
 --------------------------
-Ir para [O que é React Native](/1-Introducao/OQueE.md)
+Ir para [Contribuições](/1-Introducao/Contribuicao.md)
