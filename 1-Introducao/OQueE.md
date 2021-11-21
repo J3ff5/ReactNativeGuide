@@ -5,4 +5,4 @@ React Native é uma framework do JavaScript, mantido pelo Facebook ( isso mesmo,
 Se assemelha ao React.js, porém voltado exclusivamente ao mobile.
 
 -------------------
-Ir para [Instalação do React Native](../2-Instalacao\Instalando.md)
+Ir para [Instalação do React Native](../2-Instalacao/Instalando.md)
